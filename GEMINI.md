@@ -1,6 +1,3 @@
-Here is the **Project Memory** document customized for your repository (`kasina-curriculum`). 
-
-You can save this as a file (e.g., `PROJECT_MEMORY.md` or just keep it in your local notes) so that any AI assistant or team member knows the exact rules for your batches.
 
 ***
 
